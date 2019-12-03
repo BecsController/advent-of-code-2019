@@ -1,4 +1,4 @@
-inputs = File.open("inputs.txt").read.split("\n").map(&:to_i)
+inputs = File.open("day_one_inputs.txt").read.split("\n").map(&:to_i)
 $each_input = []
 $sum = []
 
